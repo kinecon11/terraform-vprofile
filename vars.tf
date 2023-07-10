@@ -55,8 +55,8 @@ variable VPC_NAME {
   default = "vprofile-VPC"
 }
 
-variable VPC_CIDR {
-  default = "vprofile-VPC"
+variable vpc_CIDR {
+  default = "172.21.0.0/16"
 }
 
 variable ZONE1 {
