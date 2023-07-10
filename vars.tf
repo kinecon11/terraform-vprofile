@@ -55,6 +55,10 @@ variable VPC_NAME {
   default = "vprofile-VPC"
 }
 
+variable VPC_CIDR {
+  default = "vprofile-VPC"
+}
+
 variable ZONE1 {
   default = "us-east-1a"
 }
