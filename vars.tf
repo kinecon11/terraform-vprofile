@@ -6,8 +6,8 @@ variable AMIS {
   type = map
   default = {
     us-east-1 = "ami-053b0d53c279acc90"
-    us-east-1 = ""
-    us-east-1 = ""
+    us-east-1a = "mi-053b0d53c279acc91"
+    us-east-1 = "mi-053b0d53c279acc93"
   }
 }
 
